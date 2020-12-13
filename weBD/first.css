@@ -1,0 +1,33 @@
+.bg {
+ width: 100%;
+ background-position: cover;
+ position: absolute;
+ z-index: -1;
+}
+
+
+
+#head{
+	color: red;
+	font-family: cursive;
+	text-align: center;
+}
+
+#h2 {
+	color: #660066;
+	font-family: cursive;
+}
+
+#p3{
+	color: #660066;
+	font-size: 35px;
+	font-family: cursive;
+	
+}
+
+#p1,#p2{
+	color: #ffffcc;
+	font-family: Lucida Handwriting;
+	font-size: 18px;
+}
+

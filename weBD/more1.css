@@ -1,0 +1,22 @@
+.bg {
+ width: 100%;
+ background-position: cover;
+ position: absolute;
+ z-index: -1;
+
+}
+
+
+#p{
+	font-weight: bold;
+	text-align: left;
+	color: pink;
+	font-size: 25px;
+}
+
+#p1{
+	text-align: right;
+	font-family: Times new roman;
+	color: pink;
+	font-size: 25px;
+}

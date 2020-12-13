@@ -1,0 +1,17 @@
+.bg {
+ width: 100%;
+ min-height: 100vh;
+ background-position: cover;
+ position: absolute;
+ z-index: -1;
+
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+}

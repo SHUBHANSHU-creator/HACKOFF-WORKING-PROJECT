@@ -1,0 +1,14 @@
+.bg {
+ background-image: url(w1.jpg);
+ background-repeat: no-repeat, repeat;
+ background-size: cover;
+ font-family:cursive;
+
+
+}
+
+.container{
+	font-family: cursive;
+
+}
+

@@ -1,0 +1,24 @@
+#body{
+	background-color: yellow;
+}
+
+#img{
+	
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	 
+
+}
+
+
+#p{
+	font-size: 20px;
+	font-family: fantasy;
+}
+
+#link{
+	text-align: center;
+	font-family: cursive;
+	color: red;
+}
